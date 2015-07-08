@@ -1,0 +1,15 @@
+{
+  "name": "rss-filter",
+  "version": "0.0.1",
+  "description": "Fetches and filters RSS feeds",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rss",
+    "filter"
+  ],
+  "author": "lotrf3",
+  "license": "CC-BY-SA 4.0"
+}
