@@ -2,7 +2,7 @@
 
 RSS Filter is a proxy server that filters out undesired RSS entries. [A hosted version is available](rssfilter-lotrf3.rhcloud.com), or you can host your own.
 
-[This page](rssfilter-lotrf3.rhcloud.com/index.html) can help format and encode a `/filter?` url, or you can write it manually. One you have a `/filter?` url, use it in your RSS aggregator of choice.
+[This page](rssfilter-lotrf3.rhcloud.com/index.html) can help format and encode a `/filter?` url, or you can write it manually. Once you have a `/filter?` url, use it in your RSS aggregator of choice.
 
 ## Example
 Here's an example I actually use
